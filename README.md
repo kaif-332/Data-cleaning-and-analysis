@@ -108,10 +108,10 @@ python scripts/analysis.py
 
 ## 🧠 Future Enhancements
 
-* 📊 Add **Pandas** for advanced data analysis
-* 🎨 Improve visuals using **Seaborn / Plotly**
-* 🤖 Build **ML models for yield prediction**
-* 🌡️ Include **temperature & soil data**
+*  Add **Pandas** for advanced data analysis
+*  Improve visuals using **Seaborn / Plotly**
+*  Build **ML models for yield prediction**
+*  Include **temperature & soil data**
 
 ---
 
@@ -122,7 +122,7 @@ Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the **MIT License**.
 
