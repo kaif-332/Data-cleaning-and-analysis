@@ -59,18 +59,18 @@ The dataset includes:
 
  Visualizations
 
-* 📊 **Bar Charts** – State-wise production comparison
-* 📉 **Line Graphs** – Rainfall vs yield trends
-* 🔵 **Scatter Plots** – Correlation analysis
-* 🥧 **Pie Charts** – Crop distribution
+*  **Bar Charts** – State-wise production comparison
+*  **Line Graphs** – Rainfall vs yield trends
+*  **Scatter Plots** – Correlation analysis
+*  **Pie Charts** – Crop distribution
 
 ---
 
  Key Insights
 
-* 🌍 Certain states dominate specific crop production due to environmental advantages
-* 🌧️ Rainfall has a **variable but significant impact** on yield
-* ⚖️ Some regions show **high production but low efficiency**, indicating optimization potential
+*  Certain states dominate specific crop production due to environmental advantages
+*  Rainfall has a **variable but significant impact** on yield
+*  Some regions show **high production but low efficiency**, indicating optimization potential
 
 ---
 
