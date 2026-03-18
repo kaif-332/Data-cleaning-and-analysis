@@ -1,0 +1,10 @@
+
+## Data Cleaning and Preparation
+
+The initial dataset used in this project was a large, raw collection of agricultural records containing inconsistencies, missing values, and unstructured entries. Before performing any meaningful analysis, it was necessary to carefully clean and organize the data.
+
+Using NumPy within a Jupyter Notebook environment, I carried out the preprocessing steps. This included identifying and removing null or incomplete records to ensure the integrity of the dataset. Wherever required, inconsistent formats were standardized, and relevant fields were filtered to retain only the variables necessary for analysis, such as state, crop type, rainfall, production, and yield.
+
+The cleaning process was kept straightforward and focused, prioritizing data reliability over complexity. After removing noise and irrelevant entries, the dataset was sorted and structured in a way that made it suitable for further analysis and visualization.
+
+This step formed the foundation for the rest of the project, as accurate insights depend heavily on the quality of the underlying data. The screenshots included in this repository reflect the actual preprocessing workflow carried out in Jupyter Notebook using NumPy.
